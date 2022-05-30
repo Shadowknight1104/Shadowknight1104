@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Shadowknight
 I'm a student and just another tech and programming enthusiast
 
-Skills: Python / HTML / C
+Skills: Python / C / HTML
 
 - 🔭 I’m currently working on - 
 - 🌱 I’m currently learning - 
